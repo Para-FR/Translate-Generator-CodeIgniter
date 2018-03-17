@@ -1,0 +1,10 @@
+D:\Save_Para_End_2017\Ynov\C#\MeetoTranslate\MeetoTranslate\bin\Debug\MeetoTranslate.exe.config
+D:\Save_Para_End_2017\Ynov\C#\MeetoTranslate\MeetoTranslate\bin\Debug\MeetoTranslate.exe
+D:\Save_Para_End_2017\Ynov\C#\MeetoTranslate\MeetoTranslate\bin\Debug\MeetoTranslate.pdb
+D:\Save_Para_End_2017\Ynov\C#\MeetoTranslate\MeetoTranslate\obj\Debug\MeetoTranslate.Form1.resources
+D:\Save_Para_End_2017\Ynov\C#\MeetoTranslate\MeetoTranslate\obj\Debug\MeetoTranslate.Properties.Resources.resources
+D:\Save_Para_End_2017\Ynov\C#\MeetoTranslate\MeetoTranslate\obj\Debug\MeetoTranslate.csproj.GenerateResource.Cache
+D:\Save_Para_End_2017\Ynov\C#\MeetoTranslate\MeetoTranslate\obj\Debug\MeetoTranslate.csproj.CoreCompileInputs.cache
+D:\Save_Para_End_2017\Ynov\C#\MeetoTranslate\MeetoTranslate\obj\Debug\MeetoTranslate.exe
+D:\Save_Para_End_2017\Ynov\C#\MeetoTranslate\MeetoTranslate\obj\Debug\MeetoTranslate.pdb
+D:\Save_Para_End_2017\Ynov\C#\MeetoTranslate\MeetoTranslate\obj\Debug\MeetoTranslate.csprojResolveAssemblyReference.cache
